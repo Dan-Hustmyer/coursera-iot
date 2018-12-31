@@ -1,2 +1,5 @@
 # coursera-iot
-For peer graded assignments to be shared
+_For peer graded assignments to be shared_
+
+Files Uploaded:
+- IdentifyADevice.pdf - Peer Graded Assignment #1
